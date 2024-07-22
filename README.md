@@ -83,4 +83,4 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 #Contact
-For questions or feedback, please contact Rabia Kaşıkcı at rabiakasikci3@gmail.com.
+For questions or feedback, please contact Hakan Everdi at hknevrdi@gmail.com.
